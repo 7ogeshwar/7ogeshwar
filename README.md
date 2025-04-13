@@ -7,7 +7,7 @@ I'm a passionate cybersecurity enthusiast with a focus on malware analysis, prev
 ## 🔧 Tools & Technologies:
 - **Programming Languages:** Python, JavaScript, Bash
 - **Cybersecurity Tools:** Metasploit, Wireshark, Burp Suite, Nmap, Kali Linux
-- **Malware Analysis:** IDA Pro,Assembly language
+- **Malware Analysis:** Ghidra,Assembly language
 - **Networking:** TCP/IP, DNS, HTTP/HTTPS
 - **Cloud Security:** AWS
 - **Machine Learning & AI:** Scikit-learn, pandas ,numpy
